@@ -9,4 +9,5 @@ pip install -r requirements.txt
 ```
 
 # Example
-![image](https://user-images.githubusercontent.com/9429952/135878638-f9c73764-11da-48e5-8668-4ee6a08b4e88.png)
+![image](https://user-images.githubusercontent.com/9429952/135977567-e7fc25cb-e5ed-4405-90c1-249b1858778d.png)
+
