@@ -1,5 +1,10 @@
 # RedDPAPY
-Retrieve &amp; extract usefull data regarding DPAPI files
+Retrieve &amp; extract usefull data regarding DPAPI files :
+- Chrome : History / Login Data / Visited Websites & Favorites 
+- Firefox : Login & Password + History
+- VCRD Credentials (Vault) : Extract login/password
+- Credentials files protected by DPAPI : Extract login/password
+- Masterkeys : Hashcat format & decrypted if pvk file provided
 
 # How to install ?
 ```
