@@ -4,7 +4,7 @@ Retrieve &amp; extract usefull data regarding DPAPI files
 # How to install ?
 ```
 virtualenv --python=/usr/bin/python3.9 dpapy_env
-source 
+source dpapy_env/bin/activate
 pip install -r requirements.txt
 ```
 
