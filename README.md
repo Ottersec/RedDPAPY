@@ -1,4 +1,4 @@
-# RedDPAPY
+# RedDPAPY -> Tool made by the SG Red Team
 Retrieve &amp; extract usefull data regarding DPAPI files :
 - Chrome : History / Login Data / Visited Websites & Favorites 
 - Firefox : Login & Password + History
